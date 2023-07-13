@@ -1,24 +1,16 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# [Template for the rails with tailwind css]
 
-* Ruby version
+# database 
 
-* System dependencies
+Database that I use is sqlite 3 
 
-* Configuration
+So in other you of the postgres you have to install 
 
-* Database creation
+```sh
+ gem install pg
+```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+After that you can you this for the postgres
